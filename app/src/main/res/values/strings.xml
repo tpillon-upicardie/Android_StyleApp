@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StyleApplication</string>
+    <string name="text_value">my display is change by style !</string>
+    <string name="green_text">Only green Text</string>
+</resources>

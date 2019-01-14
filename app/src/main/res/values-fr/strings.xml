@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Application de Style</string>
+    <string name="text_value">mon affichage est changé par un style !</string>
+    <string name="green_text">un simple text vert</string>
+
+</resources>
